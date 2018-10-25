@@ -1,5 +1,5 @@
 # War
-# A player competed against the dealer.
+# A player competes against the dealer.
 # Whoever draws the highest value card wins.
 
 import cards
